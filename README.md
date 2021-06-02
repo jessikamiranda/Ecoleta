@@ -6,4 +6,6 @@
 Projeto desenvolvido com ReactNative em aula.
 
 ## 🎨  Layout
+<p align="center">
 <img src="assets/home.jpg" alt="Home" width="200px"/> <img src="assets/points.jpg" alt="Points" width="200px"/> <img src="assets/details.jpg" alt="Details" width="200px"/>
+</p>
